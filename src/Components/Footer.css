@@ -1,0 +1,14 @@
+.first-footer {
+    background-color: navy;
+    color: aliceblue;
+    position: sticky;
+    bottom: 0;
+    p {
+            text-align: left;
+    }
+}
+
+.first-foote a{
+        color:aliceblue;
+}
+
